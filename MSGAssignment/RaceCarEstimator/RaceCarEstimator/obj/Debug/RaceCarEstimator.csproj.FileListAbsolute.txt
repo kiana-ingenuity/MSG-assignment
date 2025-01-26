@@ -1,0 +1,10 @@
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\bin\Debug\RaceCarEstimator.exe.config
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\bin\Debug\RaceCarEstimator.exe
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\bin\Debug\RaceCarEstimator.pdb
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.csproj.AssemblyReference.cache
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.Properties.Resources.resources
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.csproj.GenerateResource.cache
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.csproj.CoreCompileInputs.cache
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.exe
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.pdb
+D:\@WorkSpace\Projects\2024\10-13-csharp-assignment\res\RaceCarEstimator\RaceCarEstimator\obj\Debug\RaceCarEstimator.FormMain.resources
